@@ -1,20 +1,3 @@
-<table>
-  <tr>
-    <h4>Applications</h4>
-  </tr>
-  <tr>
-  <th width="33%"><img  alt="Crime Prediction App" src="https://github.com/a-karawash/Crime-Prediction-App/blob/master/image.gif"> </th>
-  <th width="33%"><img alt="Multilingual Chatbot App" src="https://github.com/a-karawash/Multilingual-Chatbot-App/blob/master/image.gif"></th>
-  <th width="33%"><img alt="Object Detection App" src="https://github.com/a-karawash/Object-Detection-App/blob/master/imagex.gif"></th>
-  </tr>
-  <tr>
-  <th><a href="https://github.com/a-karawash/Crime-Prediction-App" target="_blank">Crime Prediction App</a></th>
-  <th><a href="https://github.com/a-karawash/Multilingual-Chatbot-App" target="_blank">Multilingual Chatbot App</a></th>
-  <th><a href="https://github.com/a-karawash/Object-Detection-App" target="_blank">Object Detection App</a></th>
-  </tr>
-  
-  </table>
-  
   <table>
   <tr>
     <h4>Notebooks</h4>
@@ -47,5 +30,20 @@
   </tr>
 </table>
   
-
+<table>
+  <tr>
+    <h4>Applications</h4>
+  </tr>
+  <tr>
+  <th width="33%"><img  alt="Crime Prediction App" src="https://github.com/a-karawash/Crime-Prediction-App/blob/master/image.gif"> </th>
+  <th width="33%"><img alt="Multilingual Chatbot App" src="https://github.com/a-karawash/Multilingual-Chatbot-App/blob/master/image.gif"></th>
+  <th width="33%"><img alt="Object Detection App" src="https://github.com/a-karawash/Object-Detection-App/blob/master/imagex.gif"></th>
+  </tr>
+  <tr>
+  <th><a href="https://github.com/a-karawash/Crime-Prediction-App" target="_blank">Crime Prediction App</a></th>
+  <th><a href="https://github.com/a-karawash/Multilingual-Chatbot-App" target="_blank">Multilingual Chatbot App</a></th>
+  <th><a href="https://github.com/a-karawash/Object-Detection-App" target="_blank">Object Detection App</a></th>
+  </tr>
+  
+  </table>
   
